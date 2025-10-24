@@ -1,6 +1,6 @@
 1. Basic Coding Tasks
 Sum of Two Numbers
-Write a function that takes two integers as input and returns their sum.
+Write a function that takes two integers as input and returns their sum. (solved)
 Check Even or Odd
 Write a function that checks if a given number is even or odd.
 Find Maximum of Three Numbers
