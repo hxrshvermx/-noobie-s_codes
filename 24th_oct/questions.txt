@@ -1,0 +1,35 @@
+1. Basic Coding Tasks
+Sum of Two Numbers
+Write a function that takes two integers as input and returns their sum.
+Check Even or Odd
+Write a function that checks if a given number is even or odd.
+Find Maximum of Three Numbers
+Write a function that takes three numbers and returns the largest one.
+Reverse a String
+Write a function that takes a string and returns it reversed.
+Count Vowels in a String
+Write a function that counts the number of vowels in a given string.
+
+2. Data Structures
+Find Element in a List/Array
+Write a function that checks if a given element exists in a list (Python) or array (C++).
+Sum of Elements in a List/Array
+Write a function that returns the sum of all elements in a list/array.
+Find Minimum Value in a List/Array
+Write a function that finds and returns the smallest value in a list/array.
+Remove Duplicates from a List/Array
+Write a function that removes duplicate elements from a list/array.
+Count Occurrences of an Element
+Write a function that counts how many times a given element appears in a list/array.
+
+3. Algorithms
+Factorial of a Number
+Write a function to compute the factorial of a given number.
+Check for Prime Number
+Write a function that checks if a number is prime.
+Fibonacci Sequence (Nth Term)
+Write a function that returns the Nth term of the Fibonacci sequence.
+Linear Search
+Write a function that implements linear search to find an element in a list/array.
+Bubble Sort
+Write a function that sorts a list/array using the bubble sort algorithm.
