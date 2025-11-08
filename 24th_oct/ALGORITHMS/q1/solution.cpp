@@ -20,11 +20,22 @@ long long int factorial(int x){
     }
     return result;
 
-}
+} 
+
+// TC: O(n)
+int fact_recursive(int x){
+    // base case: x = 1 
+    if (x==1){
+        return 1;
+    }
+    // operation step: x*fact_recursive(x-1)
+    return x*fact_recursive(x-1);
+
+} 
 
 int main(){
     long long int result;
-    result = factorial(20);
+    result = fact_recursive(5);
     cout << result << endl;
     return 0;
 }

@@ -8,5 +8,10 @@ def factorial(x)-> int:
        # print("Debug",i)
     return result
 
-result = factorial(100000)
+def fact_recursive(x)-> int:
+    if x==1:
+        return 1
+    return x*fact_recursive(x-1)
+
+result = fact_recursive(5)
 print(result)
